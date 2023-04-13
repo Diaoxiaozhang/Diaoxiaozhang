@@ -4,7 +4,7 @@
 **Diaoxiaozhang/Diaoxiaozhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🏫 I'm currently 🏫 I'm a passionate student currently pursuing my studies.
+- 🏫 I'm currently a passionate student currently pursuing my studies.
 - 🌱 I love exploring new technologies and learning new skills.
 - 💻 My primary programming language is Python.
 - 🎯 My main focus is on Machine Learning and Data Science.
